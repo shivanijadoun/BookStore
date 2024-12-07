@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Navbar from "../components/Navbar";
 import Banner from "../components/Banner";
 import Freebook from "../components/Freebook";
@@ -11,6 +11,7 @@ function Home() {
       <Banner />
       <Freebook />
       <Footer />
+      
     </>
   );
 }
